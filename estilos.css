@@ -215,8 +215,8 @@ video {
 .proyecto button {
     padding: 0.5rem 1rem;
     border: none;
-    background-color: #007bff;
-    color: white;
+    background-color: #4718b3;
+    color: rgb(2, 204, 255);
     border-radius: 5px;
     cursor: pointer;
     transition: background-color 0.3s ease;
